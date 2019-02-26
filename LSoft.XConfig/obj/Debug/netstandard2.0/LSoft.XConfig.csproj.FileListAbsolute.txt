@@ -1,0 +1,9 @@
+C:\Works\LSoft.XConfig\LSoft.XConfig\bin\Debug\netstandard2.0\LSoft.XConfig.deps.json
+C:\Works\LSoft.XConfig\LSoft.XConfig\bin\Debug\netstandard2.0\LSoft.XConfig.dll
+C:\Works\LSoft.XConfig\LSoft.XConfig\bin\Debug\netstandard2.0\LSoft.XConfig.pdb
+C:\Works\LSoft.XConfig\LSoft.XConfig\obj\Debug\netstandard2.0\LSoft.XConfig.csprojAssemblyReference.cache
+C:\Works\LSoft.XConfig\LSoft.XConfig\obj\Debug\netstandard2.0\LSoft.XConfig.csproj.CoreCompileInputs.cache
+C:\Works\LSoft.XConfig\LSoft.XConfig\obj\Debug\netstandard2.0\LSoft.XConfig.AssemblyInfoInputs.cache
+C:\Works\LSoft.XConfig\LSoft.XConfig\obj\Debug\netstandard2.0\LSoft.XConfig.AssemblyInfo.cs
+C:\Works\LSoft.XConfig\LSoft.XConfig\obj\Debug\netstandard2.0\LSoft.XConfig.dll
+C:\Works\LSoft.XConfig\LSoft.XConfig\obj\Debug\netstandard2.0\LSoft.XConfig.pdb
